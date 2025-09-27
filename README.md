@@ -2,6 +2,9 @@
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=LogeshBalaji.LogeshBalaji" alt="Profile Views" />
+</div>
 
 <h1 align="center">
   👋 Hey there, I’m <span style="color:#00FFD1;">Logesh</span>
