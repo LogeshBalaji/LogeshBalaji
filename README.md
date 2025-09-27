@@ -33,14 +33,14 @@
 
 ### 💻 I Code In
 <p align="center">
-  <img height="65" src="https://skillicons.dev/icons?i=python,c,java,html,css,bootstrap,js" />
+  <img height="65" src="https://skillicons.dev/icons?i=python,c,java,html,css,bootstrap" />
 </p>
 
 ---
 
 ### 🛠 IDE & Tools I Use
 <p align="center">
-  <img height="65" src="https://skillicons.dev/icons?i=vscode,anaconda,eclipse,figma,git,github" />
+  <img height="65" src="https://skillicons.dev/icons?i=vscode,jupiterlab,eclipse,figma,git,github" />
 </p>
 
 ---
