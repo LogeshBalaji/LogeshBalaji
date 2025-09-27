@@ -40,7 +40,7 @@
 
 ### 🛠 IDE & Tools I Use
 <p align="center">
-  <img height="65" src="https://skillicons.dev/icons?i=vscode,jupiterlab,eclipse,figma,git,github" />
+  <img height="65" src="https://skillicons.dev/icons?i=vscode,anaconda,eclipse,figma,git,github" />
 </p>
 
 ---
