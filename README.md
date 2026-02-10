@@ -24,7 +24,7 @@
   <a href="mailto:yourmail@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/Logesh_Balaji/">
+  <a href="https://leetcode.com/Logesh-B/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
@@ -47,8 +47,8 @@
 
 ### 📊 Coding Stats  
 <p align="center">
-  <a href="https://leetcode.com/Logesh_Balaji/">
-    <img src="https://leetcard.jacoblin.cool/Logesh_Balaji?theme=dark&ext=contest" alt="LeetCode Stats"/>
+  <a href="https://leetcode.com/Logesh-B/">
+    <img src="https://leetcard.jacoblin.cool/Logesh-B?theme=dark&ext=contest" alt="LeetCode Stats"/>
   </a>
 </p>
 
